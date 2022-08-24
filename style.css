@@ -1,0 +1,15 @@
+#sorting_button{
+    display: none;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
+#submit_button{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
